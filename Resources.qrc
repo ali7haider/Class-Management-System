@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>Icons/icons8-logout-40.png</file>
+    <file>Icons/icons8-schoolboy-at-a-desk-40.png</file>
+    <file>Icons/icons8-class-40.png</file>
+    <file>Icons/smallerLogo.png</file>
+    <file>Icons/logoBook-removebg-preview.png</file>
+    <file>Icons/CloseButton.png</file>
+    <file>Icons/Minimize.png</file>
+    <file>Icons/DashboardWhite.png</file>
+  </qresource>
+</RCC>
